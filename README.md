@@ -2,6 +2,10 @@
 
 ### [Site link](https://dazzling-brahmagupta-7fdcfb.netlify.app/)
 
+<kbd>
+  <img align="right" alt="img" src="eQAyHfo.jpeg"  />
+</kbd>
+
  ### 🛠 The tech stack is:
 
 
